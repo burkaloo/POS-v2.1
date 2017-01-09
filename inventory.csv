@@ -1,0 +1,84 @@
+ITEM ID,CATEGORY,NAME,INVENTORY,STOCK TYPE,DISCOUNT,Default,SC1,SC2
+A001,Sports Towel,Blue,48,stock,0,100,10,20
+A002,Sports Towel,Dark Gray,49,stock,0.1,65.61,10,20
+A003,Sports Towel,Gray,49,stock,0,0,10,20
+A004,Sports Towel,Mint Green,19,stock,0,0,10,20
+A005,Sports Towel,Orange,10,stock,0,0,10,20
+A006,Sports Towel,Pink,71,stock,0,0,10,20
+A007,Sports Towel,Purple,49,stock,0,0,10,20
+A008,Sports Towel,Royal Blue,52,stock,0,0,10,20
+A009,Sports Towel,Turquoise ,47,stock,0,0,10,20
+A010,Bath Towel,Blue,11,stock,0,0,10,20
+A011,Bath Towel,Dark Gray,66,stock,0,0,10,20
+A012,Bath Towel,Gray,12,stock,0,0,10,20
+A013,Bath Towel,Mint Green,6,stock,0,0,10,20
+A014,Bath Towel,Orange,12,stock,0,0,10,20
+A015,Bath Towel,Pink,68,stock,0,0,10,20
+A016,Bath Towel,Purple,56,stock,0,0,10,20
+A017,Bath Towel,Royal Blue,49,stock,0,0,10,20
+A018,Bath Towel,Turquoise,63,stock,0,0,10,20
+A019,Beach Towel,Dark Gray,28,stock,0,0,10,20
+A020,Beach Towel,Pink,25,stock,0,0,10,20
+A021,Beach Towel,Purple,30,stock,0,0,10,20
+A022,Beach Towel,Royal Blue,26,stock,0,0,10,20
+A023,Beach Towel,Turquoise,31,stock,0,0,10,20
+A024,Bundles,Christmas Bundle A,0,stock,0,0,10,20
+A025,Bundles,Christmas Bundle B,0,stock,0,0,10,20
+A026,Bundles,Christmas Bundle C,0,stock,0,0,10,20
+A027,Bundles,Christmas Bundle D,0,stock,0,0,10,20
+A028,Bundles,Christmas Bundle E,0,stock,0,0,10,20
+A029,Bundles,Christmas Bundle F,0,stock,0,0,10,20
+A030,Bundles,Bath and Body Bundle A,0,stock,0,0,10,20
+A031,Bundles,Bath and Body Bundle B,0,stock,0,0,10,20
+A032,Bundles,Bath and Body Bundle C,0,stock,0,0,10,20
+A033,Fleece Blanket,Apples with Love (Brown),0,stock,0,0,10,20
+A034,Fleece Blanket,Bed of Roses (Red),0,stock,0,0,10,20
+A035,Fleece Blanket,Bunny (Pink),0,stock,0,0,10,20
+A036,Fleece Blanket,Cheetah Animal Print (Brown),0,stock,0,0,10,20
+A037,Fleece Blanket,Cute Piggies (Pink),0,stock,0,0,10,20
+A038,Fleece Blanket,Dalmatian Animal Print (Black & White),0,stock,0,0,10,20
+A039,Fleece Blanket,Disney Babies (Multicolor),0,stock,0,0,10,20
+A040,Fleece Blanket,Good Luck Bears (Blue),0,stock,0,0,10,20
+A041,Fleece Blanket,Happy Sheep (Brown),0,stock,0,0,10,20
+A042,Fleece Blanket,Hello Kitty (Orange),0,stock,0,0,10,20
+A043,Fleece Blanket,Mickey Mouse (Beige),0,stock,0,0,10,20
+A044,Fleece Blanket,Mickey Mouse (Red),0,stock,0,0,10,20
+A045,Fleece Blanket,Orange,0,stock,0,0,10,20
+A046,Fleece Blanket,Paul Frank (Blue),0,stock,0,0,10,20
+A047,Fleece Blanket,Paul Frank (Brown),0,stock,0,0,10,20
+A048,Fleece Blanket,Paul Frank (Pink),0,stock,0,0,10,20
+A049,Fleece Blanket,Paul Frank Big (Multicolor),0,stock,0,0,10,20
+A050,Fleece Blanket,Pink,0,stock,0,0,10,20
+A051,Fleece Blanket,Polar Bears (Pink),0,stock,0,0,10,20
+A052,Fleece Blanket,Polka dots (Pink),0,stock,0,0,10,20
+A053,Fleece Blanket,Purple,0,stock,0,0,10,20
+A054,Fleece Blanket,Purple Leaves,0,stock,0,0,10,20
+A055,Fleece Blanket,Red,0,stock,0,0,10,20
+A056,Fleece Blanket,Reindeer (Brown),0,stock,0,0,10,20
+A057,Fleece Blanket,Sheep (Yellow),0,stock,0,0,10,20
+A058,Fleece Blanket,Small Flowers (Yellow),0,stock,0,0,10,20
+A059,Fleece Blanket,Snoopy (Multicolor),0,stock,0,0,10,20
+A060,Fleece Blanket,Spongebob with the Gang (Multicolor),0,stock,0,0,10,20
+A061,Fleece Blanket,Teddy Bear Circles (Multicolor),0,stock,0,0,10,20
+A062,Fleece Blanket,Teddy Bear Squares (Multicolor),0,stock,0,0,10,20
+A063,Fleece Blanket,Teddy Bears with Love (Blue),0,stock,0,0,10,20
+A064,Fleece Blanket,Teddy Bears with Love (Pink),0,stock,0,0,10,20
+A065,Fleece Blanket,Wild Roses (Red),0,stock,0,0,10,20
+A066,Fleece Blanket,Frozen,0,stock,0,0,10,20
+A067,Fleece Blanket,Disney Princess,0,stock,0,0,10,20
+A068,Fleece Blanket,Assorted Micro Fleece with Design,0,stock,0,0,10,20
+A069,Fleece Blanket,Yellow,0,stock,0,0,10,20
+A070,Compact Pillow,Birthday Red Pillow,0,stock,0,0,10,20
+A071,Compact Pillow,Black Pillow,0,stock,0,0,10,20
+A072,Compact Pillow,Ash Gray,0,stock,0,0,10,20
+A073,Compact Pillow,Navy Blue Pillow,0,stock,0,0,10,20
+A074,Micro Fleece Solid,Beige,0,stock,0,0,10,20
+A075,Micro Fleece Solid,Birthday Red,0,stock,0,0,10,20
+A076,Micro Fleece Solid,Cream,0,stock,0,0,10,20
+A077,Micro Fleece Solid,Gray,0,stock,0,0,10,20
+A078,Micro Fleece Solid,Assorted,0,stock,0,0,10,20
+A079,Micro Fleece Solid,Maroon,0,stock,0,0,10,20
+A080,Micro Fleece Solid,Navy Blue,0,stock,0,0,10,20
+A081,Micro Fleece Solid,Royal Blue,0,stock,0,0,10,20
+A082,Micro Fleece Solid,Baby Pink,0,stock,0,0,10,20
+A083,Micro Fleece Solid,Sky Blue,0,stock,0,0,10,20

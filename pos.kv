@@ -1,0 +1,41 @@
+
+#:import main posapp
+#:import Label kivy.uix.label.Label
+#:import ListAdapter kivy.adapters.listadapter.ListAdapter
+#:import ListItemButton kivy.uix.listview.ListItemButton
+#:import TextInput kivy.uix.textinput    
+
+
+<HomeScreen>:
+    BoxLayout:
+        orientation: 'vertical'
+        BoxLayout:
+            GridLayout:
+                cols: 2
+                Button:
+                    text: 'Reports'
+                    on_press: root.manager.current = 'Stats'
+                Button:
+                    text: 'New Sale'
+                    on_press: root.manager.current ='sales' 
+            BoxLayout:
+                Label:
+                    text: main.DATE
+        BoxLayout:
+            size_hint_y: None
+            height: 30
+            Label:
+                size_hint_x: None
+                width: 200
+                text: 'Item Look up:'
+            TextInput:
+                id: itemnumfind
+                size_hint_x: None
+                width: 300
+                text: 'Enter Valid Item Number'
+                multiline: 'False'
+            Button:
+                size_hint_x: None
+                width: 150
+                text: 'Find'
+                on_press: main.itemfind(itemnumfind.text)
